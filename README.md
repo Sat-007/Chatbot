@@ -7,9 +7,10 @@
 # Description:  
  This is a chatbot which I have built here will perform a vector search on every question asked by the user, It will use the information from the vector database provided by the pdf files to answer the questions from the user, if any questions asked out of the domain, the answer will be I dont know
 
-# Tech Stack Used: Python, Ollama models (nomic-embed-text and llama3)
-# Operating System: Windows 11 (64 bit)
-# Gradio is used for WEB UI interface as this is light weight
+# Tech Stack Used:
+- Python, Ollama models (nomic-embed-text and llama3)
+- Operating System: Windows 11 (64 bit)
+- Gradio is used for WEB UI interface as this is light weight
 
 # Issues Faced
 - Initially I wanted to use the OpenAI model, I Managed to write a working code for OpenAI model but due to billing restrictions I couldn't use OPENAI. 
