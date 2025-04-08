@@ -12,9 +12,9 @@
 # Gradio is used for WEB UI interface as this is light weight
 
 # Issues Faced
-## Initially I wanted to use the OpenAI model, I Managed to write a working code for OpenAI model but due to billing restrictions I couldn't use OPENAI. 
-## To over come this use, I installed Ollama and launched it locally on my machine
-## To launch just the Ollama model, I used docker along with webUI to test whether the model was running
+- Initially I wanted to use the OpenAI model, I Managed to write a working code for OpenAI model but due to billing restrictions I couldn't use OPENAI. 
+- To over come this use, I installed Ollama and launched it locally on my machine
+- To launch just the Ollama model, I used docker along with webUI to test whether the model was running
 
 # Installation:
 - Python Version: 3.7+
